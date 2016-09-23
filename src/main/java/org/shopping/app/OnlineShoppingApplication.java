@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OnlineShoppingApplication {
 
 	public static void main(String[] args) {
-		System.out.println("nabina");
+		System.out.println("nabina shahi");
 		SpringApplication.run(OnlineShoppingApplication.class, args);
 	}
 }
